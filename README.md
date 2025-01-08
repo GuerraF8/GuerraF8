@@ -1,7 +1,4 @@
 # Felipe Guerra – Software Engineer 💻  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--guerra--abarzua-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-guerra-abarzua)  
-[![GitHub](https://img.shields.io/badge/GitHub-GuerraF8-black?style=flat&logo=github&logoColor=white)](https://github.com/GuerraF8)  
-
 ---
 
 ### About Me 👋  
@@ -25,4 +22,4 @@ Currently, I am seeking an internship to apply and expand my skills in the tech 
 ---
 
 ### Contact 📧  
-- **Email:** [fguerra21@alumnos.utalca.cl](mailto:fguerra21@alumnos.utalca.cl)
+- **Email:** [felipegu3rra2003@gmail.com](mailto:felipegu3rra2003@gmail.com)
