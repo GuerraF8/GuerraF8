@@ -1,14 +1,13 @@
 # Felipe Guerra – Software Engineer 💻  
 ---
 
-### About Me 👋  
+### About Me 
 I'm a **Computer Engineering student** at the **University of Talca**.  
-Quick learner, team player, and eager to tackle challenging problems.  
 Currently, I am seeking an internship to apply and expand my skills in the tech industry.
 
 ---
 
-### Skills and Technologies 🚀  
+### Skills and Technologies  
 
 #### Languages:  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  &nbsp; ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  &nbsp; ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  &nbsp; ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  &nbsp; ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -22,4 +21,4 @@ Currently, I am seeking an internship to apply and expand my skills in the tech 
 ---
 
 ### Contact 📧  
-- **Email:** [felipegu3rra2003@gmail.com](mailto:felipegu3rra2003@gmail.com)
+- **Email:** [felipegu3rra2003@gmail.com](mailto:felipeguerraabarzua@gmail.com)
