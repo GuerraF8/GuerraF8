@@ -21,4 +21,4 @@ Currently, I am seeking an internship to apply and expand my skills in the tech 
 ---
 
 ### Contact 📧  
-- **Email:** [felipegu3rra2003@gmail.com](mailto:felipeguerraabarzua@gmail.com)
+- **Email:** [felipeguerraabarzua@gmail.com](mailto:felipeguerraabarzua@gmail.com)
